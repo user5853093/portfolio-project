@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "TaskTracker",
+        "description": "A minimalist to-do application for tracking daily tasks with due dates and priorities.",
+        "technologies": ["React", "Node.js", "Express"],
+        "image": "tasktracker.jpg",
+        "url": "https://example.com/tasktracker"
+    },
+    {
+        "id": 2,
+        "title": "WeatherDash",
+        "description": "A live weather dashboard showing forecasts, maps, and historical trends.",
+        "technologies": ["Vue.js", "Flask"],
+        "image": "weatherdash.jpg",
+        "url": "https://example.com/weatherdash"
+    },
+    {
+        "id": 3,
+        "title": "CodeSnippetVault",
+        "description": "A desktop app for storing and organizing reusable code snippets by language and tag.",
+        "technologies": ["Python", "Tkinter"],
+        "image": "codesnippet.jpg",
+        "url": "https://example.com/codesnippet"
+    },
+    {
+        "id": 4,
+        "title": "MarkdownBlog",
+        "description": "A fast static blog generator that converts Markdown files into a themed site.",
+        "technologies": ["Go", "Hugo"],
+        "image": "markdownblog.jpg",
+        "url": "https://example.com/markdownblog"
+    },
+    {
+        "id": 5,
+        "title": "PixelArtEditor",
+        "description": "A browser-based editor for creating and exporting pixel art with a simple palette.",
+        "technologies": ["Javascript", "HTML5 Canvas"],
+        "image": "pixelart.jpg",
+        "url": "https://example.com/pixelart"
+    },
+    {
+        "id": 6,
+        "title": "HabitForge",
+        "description": "A mobile habit tracker with streaks, reminders, and progress charts.",
+        "technologies": ["Flutter", "Firebase"],
+        "image": "habitforge.jpg",
+        "url": "https://example.com/habitforge"
+    }
+]
